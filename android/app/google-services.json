@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502846594338",
+    "firebase_url": "https://chatapp-dd312.firebaseio.com",
+    "project_id": "chatapp-dd312",
+    "storage_bucket": "chatapp-dd312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502846594338:android:e2d17c41b6ab3f3929997b",
+        "android_client_info": {
+          "package_name": "com.example.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502846594338-f1qv5n01dtoavlb0lsdiv2cgn94avmfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBayN0KOqPrLYQAosPkb-nhPKnXViFMEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502846594338-f1qv5n01dtoavlb0lsdiv2cgn94avmfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
