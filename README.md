@@ -1,16 +1,19 @@
-# friendlychat
+This project is a chat application developed using Flutter + Firebase for the backend.
 
-A new Flutter project.
+The application consists of 3 screens: 
+* Main screen.
+<img src="assets/images/chat2.jpeg" width=300 height=500>
 
-## Getting Started
+* Sign up screen.
+<img src="assets/images/chat3.jpeg" width=300 height=500>
 
-This project is a starting point for a Flutter application.
+* Sign in screen.
+<img src="assets/images/chat4.jpeg" width=300 height=500>
 
-A few resources to get you started if this is your first Flutter project:
+* Chat screen which is a one to one chat in a landscape and portrait mode.
+<img src="assets/images/chat1.jpeg" width=700 height=500>
+<img src="assets/images/chat5.jpeg" width=300 height=500>
+<img src="assets/images/chat6.jpeg" width=300 height=500>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Friends screen which is a list of the user's friends.
+<img src="assets/images/chat7.jpeg" width=300 height=500>
