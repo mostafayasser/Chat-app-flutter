@@ -1,6 +1,6 @@
 This project is a chat application developed using Flutter + Firebase for the backend.
 
-The application consists of 3 screens: 
+The application consists of 5 screens: 
 * Main screen.
 <img src="assets/images/chat2.jpeg" width=300 height=500>
 
